@@ -2,7 +2,7 @@
 <html lang="fr">
 
 <head>
-
+<!-- Just some comment to pull a request -->
     <meta charset="utf-8">
     <meta name="robots" content="index, follow, archive">
     <meta name="robots" content="all">
